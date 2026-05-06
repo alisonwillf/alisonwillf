@@ -30,11 +30,9 @@ Desenvolvedor em constante evolução, focado em construir soluções modernas e
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alisonwillf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonwillf&layout=compact&langs_count=6&theme=tokyonight"/>
-</p>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alisonwillf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/alisonwillf)
 
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alisonwillf&layout=compact&langs_count=6&theme=dracula)](https://github.com/alisonwillf)
 ---
 
 ### 📫 Conecte-se comigo
