@@ -28,12 +28,6 @@ Desenvolvedor em constante evolução, focado em construir soluções modernas e
 - ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
 ---
 
-### 📊 Estatísticas
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alisonwillf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/alisonwillf)
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alisonwillf&layout=compact&langs_count=6&theme=dracula)](https://github.com/alisonwillf)
----
 
 ### 📫 Conecte-se comigo
 - **LinkedIn:** [alison-william-ferreira](https://www.linkedin.com/in/alison-william-ferreira-8a824728b/)
